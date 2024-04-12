@@ -1,17 +1,14 @@
-# CSC111 Winter 2024: Project 2 requirements.
+# Senate Stock Insights Requirements
 
-# Python Libraries we used in our project 2 are as follows. Please intall them before running the main.py file:
+# We used the following Python Libraries in our project and they are necessary to run the project:
 
-# Pre-installed at the start of the course:
-json
-datetime
-typing
-plotly
-python_ta
-numpy
-networkx
-scipy
-
-# Need to install separately:
-yfinance        # pip install yfinance --upgrade --no-cache-dir          Link: https://pypi.org/project/yfinance/
-pandas
+json                    # Comes pre-installed with Python
+datetime                # Comes pre-installed with Python
+typing                  # Comes pre-installed with Python
+plotly                  # pip install plotly==5.20.0                             # Link: https://plotly.com/python/getting-started/
+python_ta               # python -m pip install python-ta                        # Link: https://www.cs.toronto.edu/~david/pyta/usage/quick_start.html
+numpy                   # pip install numpy                                      # Link: https://numpy.org/install/
+networkx                # pip install networkx[default]                          # Link: https://networkx.org/documentation/stable/install.html
+scipy                   # python -m pip install scipy                            # Link: https://scipy.org/install/
+yfinance                # pip install yfinance --upgrade --no-cache-dir          # Link: https://pypi.org/project/yfinance/
+pandas                  # pip install pandas                                     # Link: https://pandas.pydata.org/docs/getting_started/install.html
