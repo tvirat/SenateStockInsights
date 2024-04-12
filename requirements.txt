@@ -1,0 +1,17 @@
+# CSC111 Winter 2024: Project 2 requirements.
+
+# Python Libraries we used in our project 2 are as follows. Please intall them before running the main.py file:
+
+# Pre-installed at the start of the course:
+json
+datetime
+typing
+plotly
+python_ta
+numpy
+networkx
+scipy
+
+# Need to install separately:
+yfinance        # pip install yfinance --upgrade --no-cache-dir          Link: https://pypi.org/project/yfinance/
+pandas
