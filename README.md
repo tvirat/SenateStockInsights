@@ -89,6 +89,10 @@ Despite the challenges encountered during the development phase, we envision sev
 
 4. **Integration of Policy Impact Analysis:** Incorporate analysis of major policy decisions that could potentially influence stock trading activities among senators, enabling a deeper examination of the nexus between legislative actions and financial transactions.
 
+# Contributors
+1. Harpuneet Singh (https://github.com/Harpuneet2005)
+2. Tanayjyot Singh Chawla (https://github.com/TanayJyot)
+3. Virat Talan (https://github.com/tvirat)
    
 # References
 - Holmes, A. (2023, February 6). Senator Stonk trades [Data file]. Kaggle. [https://www.kaggle.com/datasets/aholmes23/senatortrades?resource=download](https://www.kaggle.com/datasets/aholmes23/senator-trades?resource=download)
