@@ -92,9 +92,11 @@ Despite the challenges encountered during the development phase, we envision sev
    
 # References
 - Holmes, A. (2023, February 6). Senator Stonk trades [Data file]. Kaggle. [https://www.kaggle.com/datasets/aholmes23/senatortrades?resource=download](https://www.kaggle.com/datasets/aholmes23/senator-trades?resource=download)
+
   This dataset, obtained from Kaggle, comprises CSV files containing U.S. senators' stock transactions spanning approximately from 2013 to 2023. It includes attributes such as senator name, transaction ID, transaction date, date filed, stock ticker, and range of amount spent.
 
 - Members of the U.S. Congress. (2024, April 12). Senators State Dataset [Data file]. https://www.congress.gov/members
+
   This dataset, provided by the U.S. Congress website, is in JSON format and contains information on U.S. senators, including their names, states, and various other data points.
 
 
